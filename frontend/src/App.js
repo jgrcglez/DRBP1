@@ -15,8 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React<i className="fa-solid fa-user"></i>
+          Learn React
         </a>
+        <p>
+          <button className="btn btn-outline-secondary btn-lg">Hola</button>
+        </p>
       </header>
     </div>
   );
