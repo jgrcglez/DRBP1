@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React<i className="fa-solid fa-user"></i>
         </a>
       </header>
     </div>
